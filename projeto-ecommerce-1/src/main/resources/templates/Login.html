@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="/css/Login.css">
+</head>
+
+
+<body>
+
+    <div class="login-container">
+        <h2>Login Gerenciador</h2>
+
+        <form>
+            <input type="text" id="email" class="input-field" placeholder="Usuário">
+            <div id="visualizeSenha">
+                <input type="password" id="password" class="input-field" placeholder="Senha">
+                <button type="button" id="toggle-password" onclick="visualizar()">👁</button>
+            </div>
+            <button type="submit" class="login-btn">Entrar</button>
+        </form>
+        <a class="register-link " href="#">Criar Conta</a>
+
+
+    </div>
+
+
+    <script src="/js/Login.js"></script>
+</body>
+
+</html>

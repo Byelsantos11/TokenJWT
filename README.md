@@ -1,6 +1,6 @@
 # Projeto Token-JWT
 
-Este projeto é um e-commerce desenvolvido com o objetivo de praticar minhas habilidades recém-aprendidas, incluindo a implementação de autenticação e autorização por meio de tokens JWT.
+Este é um projeto gerenciador desenvolvido com o objetivo de praticar minhas habilidades recém-aprendidas, incluindo a implementação de autenticação e autorização por meio de tokens JWT.
 
 ## Funcionalidades
 
